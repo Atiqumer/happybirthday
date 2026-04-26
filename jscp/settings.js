@@ -348,7 +348,7 @@ function initializeDefaultSettings() {
             { image: './image/Birthday!/photo1.jpg', content: 'Dear GULLAY, you bring so much joy and happiness! 💕' },
             { image: './image/Birthday!/photo2.jpg', content: 'Happy Birhtday Motooo ✨' },
             { image: './image/Birthday!/photo3.jpg', content: 'You are such an amazing and beautiful person! 🌸' },
-            { image: './image/Birthday!/photo4.jpg', content: 'I’m not a photographer, but I can definitely see us in your eyes💖' },
+            { image: './image/Birthday!/photo4.jpg', content: 'Forget Google Maps; I’d rather get lost in your eyes anyway' },
             { image: './image/Birthday!/photo5.jpg', content: 'Wishing you the most wonderful birthday ever! 🎉' },
             { image: './image/Birthday!/photo6.jpg', content: 'I dont mind looking down to talk to you, because the view is better from this angle anyway' },
             { image: './image/Birthday!/photo7.PNG', content: 'You deserve all the happiness! 💕' },
