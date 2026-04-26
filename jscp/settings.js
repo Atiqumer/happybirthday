@@ -346,7 +346,7 @@ function initializeDefaultSettings() {
         pages: [
             { image: './image/Birthday!/cover.jpg', content: '' }, // Front cover
             { image: './image/Birthday!/photo1.jpg', content: 'Dear GULLAY, you bring so much joy and happiness! 💕' },
-            { image: './image/Birthday!/photo2.jpg', content: 'Your smile lights up every room you enter! ✨' },
+            { image: './image/Birthday!/photo2.jpg', content: 'Happy Birhtday Motooo ✨' },
             { image: './image/Birthday!/photo3.jpg', content: 'You are such an amazing and beautiful person! 🌸' },
             { image: './image/Birthday!/photo4.jpg', content: 'Your kindness and warmth touch hearts! 💖' },
             { image: './image/Birthday!/photo5.jpg', content: 'Wishing you the most wonderful birthday ever! 🎉' },
