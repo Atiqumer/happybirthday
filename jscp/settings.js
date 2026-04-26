@@ -14,7 +14,7 @@ let settings = {
     gift: '', // No sticker/GIF
     pages: [
         { image: './image/Birthday!/cover.jpg', content: '' }, // Front cover
-        { image: './image/Birthday!/photo1.jpg', content: 'Dear Zahra, you bring so much joy and happiness! 💕' },
+        { image: './image/Birthday!/photo1.jpg', content: 'Dear GULLAY, you bring so much joy and happiness! 💕' },
         { image: './image/Birthday!/photo2.jpg', content: 'Your smile lights up every room you enter! ✨' },
         { image: './image/Birthday!/photo3.jpg', content: 'You are such an amazing and beautiful person! 🌸' },
         { image: './image/Birthday!/photo4.jpg', content: 'Your kindness and warmth touch hearts! 💖' },
@@ -336,7 +336,7 @@ function initializeDefaultSettings() {
         matrixText: 'HAPPYBIRTHDAY',
         matrixColor1: '#ff69b4', // Pink color
         matrixColor2: '#ff1493', // Pink color
-        sequence: 'HAPPY|BIRTHDAY|TO|YOU|ZAHRA|❤',
+        sequence: 'HAPPY|BIRTHDAY|TO|YOU|ANUSHA|❤',
         sequenceColor: '#ff69b4', // Pink color
         gift: '', // No sticker/GIF
         enableBook: true,
@@ -345,7 +345,7 @@ function initializeDefaultSettings() {
         colorTheme: 'pink',
         pages: [
             { image: './image/Birthday!/cover.jpg', content: '' }, // Front cover
-            { image: './image/Birthday!/photo1.jpg', content: 'Dear Zahra, you bring so much joy and happiness! 💕' },
+            { image: './image/Birthday!/photo1.jpg', content: 'Dear GULLAY, you bring so much joy and happiness! 💕' },
             { image: './image/Birthday!/photo2.jpg', content: 'Your smile lights up every room you enter! ✨' },
             { image: './image/Birthday!/photo3.jpg', content: 'You are such an amazing and beautiful person! 🌸' },
             { image: './image/Birthday!/photo4.jpg', content: 'Your kindness and warmth touch hearts! 💖' },
