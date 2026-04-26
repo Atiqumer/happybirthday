@@ -351,7 +351,7 @@ function initializeDefaultSettings() {
             { image: './image/Birthday!/photo4.jpg', content: 'I’m not a photographer, but I can definitely see us in your eyes💖' },
             { image: './image/Birthday!/photo5.jpg', content: 'Wishing you the most wonderful birthday ever! 🎉' },
             { image: './image/Birthday!/photo6.jpg', content: 'May all your dreams come true! ⭐' },
-            { image: './image/Birthday!/photo7.jpg', content: 'You deserve all the happiness! 💕' },
+            { image: './image/Birthday!/photo7.PNG', content: 'You deserve all the happiness! 💕' },
             { image: './image/Birthday!/photo8.jpg', content: 'Have the best day! ❤️🎂' },
             { image: './image/Birthday!/9.jpg', content: '' } // End cover
         ]
